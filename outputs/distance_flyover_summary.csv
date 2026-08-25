@@ -1,0 +1,7 @@
+Distance_Category,Flyover_Observed,Habitat,Observations
+Far (50 - 100m),False,Forest,4144
+Far (50 - 100m),False,Grassland,4095
+Flyover / Unrecorded,True,Forest,92
+Flyover / Unrecorded,True,Grassland,1394
+Near (<= 50m),False,Forest,4310
+Near (<= 50m),False,Grassland,3042

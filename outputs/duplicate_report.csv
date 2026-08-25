@@ -1,0 +1,7 @@
+Category,Count,Percentage
+Total Combined Raw Rows,17077,100.0%
+Forest Exact Duplicate Rows,0,0.00%
+Grassland Exact Duplicate Rows,1705,19.99%
+Total Exact Duplicate Rows (Across All Cols),1705,9.98%
+Multi-Individual Bird Sightings (Shared Interval Key),1824,10.68%
+Records Retained for Biological Abundance,17077,100.0%

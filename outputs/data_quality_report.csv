@@ -1,0 +1,19 @@
+Metric,Value
+Total Raw Rows Combined,17077
+Total Cleaned Rows,17077
+Record Loss,0
+Forest Cleaned Rows,8546
+Grassland Cleaned Rows,8531
+Unique Common Names,126
+Unique Scientific Names,127
+Unique Admin Units,11
+Unique Plots,609
+Unique Observers,3
+Min Date,2018-05-07
+Max Date,2018-07-19
+Years Present,[np.int64(2018)]
+Min Temperature (C),11.0
+Max Temperature (C),37.2999992370605
+Min Humidity (%),7.30000019073486
+Max Humidity (%),98.8000030517578
+Median Session Duration (Min),10.0

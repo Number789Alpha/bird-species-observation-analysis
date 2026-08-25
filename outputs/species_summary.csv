@@ -1,0 +1,128 @@
+Common_Name,Scientific_Name,AOU_Code,Total_Observations,Forest_Observations,Grassland_Observations,Plots_Recorded,Parks_Recorded,PIF_Watchlist,Regional_Stewardship,Habitat_Preference
+Northern Cardinal,Cardinalis cardinalis,NOCA,1160,595,565,442,11,False,False,Both Habitats
+Carolina Wren,Thryothorus ludovicianus,CARW,1011,646,365,475,11,False,False,Both Habitats
+Red-eyed Vireo,Vireo olivaceus,REVI,739,694,45,356,11,False,False,Both Habitats
+Eastern Tufted Titmouse,Baeolophus bicolor,ETTI,728,541,187,411,11,False,False,Both Habitats
+Indigo Bunting,Passerina cyanea,INBU,635,150,485,275,10,False,True,Both Habitats
+Eastern Wood-Pewee,Contopus virens,EAWP,574,486,88,346,11,False,True,Both Habitats
+Field Sparrow,Spizella pusilla,FISP,542,36,506,166,6,False,True,Both Habitats
+European Starling,Sturnus vulgaris,EUST,522,6,516,58,5,False,False,Both Habitats
+American Robin,Turdus migratorius,AMRO,496,294,202,284,11,False,False,Both Habitats
+Red-bellied Woodpecker,Melanerpes carolinus,RBWO,493,398,95,319,11,False,False,Both Habitats
+Acadian Flycatcher,Empidonax virescens,ACFL,462,436,26,247,11,False,True,Both Habitats
+Red-winged Blackbird,Agelaius phoeniceus,RWBL,429,50,379,107,7,False,False,Both Habitats
+Chipping Sparrow,Spizella passerina,CHSP,426,58,368,197,8,False,False,Both Habitats
+Blue-gray Gnatcatcher,Polioptila caerulea,BGGN,408,310,98,311,11,False,False,Both Habitats
+Mourning Dove,Zenaida macroura,MODO,397,162,235,238,10,False,False,Both Habitats
+Grasshopper Sparrow,Ammodramus savannarum,GRSP,387,5,382,133,4,False,False,Both Habitats
+Carolina Chickadee,Poecile carolinensis,CACH,376,273,103,234,11,False,True,Both Habitats
+Brown-headed Cowbird,Molothrus ater,BHCO,366,136,230,213,10,False,False,Both Habitats
+American Goldfinch,Carduelis tristis,AMGO,362,0,362,145,4,False,False,Grassland Only
+Blue Jay,Cyanocitta cristata,BLJA,354,213,141,237,11,False,False,Both Habitats
+Cedar Waxwing,Bombycilla cedrorum,CEDW,353,51,302,95,10,False,False,Both Habitats
+Wood Thrush,Hylocichla mustelina,WOTH,309,290,19,187,10,True,True,Both Habitats
+Ovenbird,Seiurus aurocapillus,OVEN,304,303,1,152,9,False,False,Both Habitats
+American Crow,Corvus brachyrhynchos,AMCR,301,142,159,202,11,False,False,Both Habitats
+Song Sparrow,Melospiza melodia,SOSP,271,32,239,118,9,False,False,Both Habitats
+Barn Swallow,Hirundo rustica,BARS,268,2,266,65,4,False,False,Both Habitats
+Downy Woodpecker,Picoides pubescens,DOWO,263,208,55,209,11,False,True,Both Habitats
+Eastern Towhee,Pipilo erythrophthalmus,EATO,263,98,165,147,10,False,True,Both Habitats
+Common Grackle,Quiscalus quiscula,COGR,227,51,176,106,9,False,False,Both Habitats
+Great Crested Flycatcher,Myiarchus crinitus,GCFL,225,154,71,171,11,False,False,Both Habitats
+Scarlet Tanager,Piranga olivacea,SCTA,216,199,17,173,11,False,True,Both Habitats
+White-breasted Nuthatch,Sitta carolinensis,WBNU,214,188,26,180,11,False,False,Both Habitats
+Eastern Bluebird,Sialia sialis,EABL,194,23,171,109,8,False,False,Both Habitats
+Eastern Meadowlark,Sturnella magna,EAME,186,6,180,71,4,False,False,Both Habitats
+Yellow-billed Cuckoo,Coccyzus americanus,YBCU,176,133,43,157,10,False,False,Both Habitats
+American Goldfinch,Spinus tristis,AMGO,147,147,0,116,11,False,False,Forest Only
+Common Yellowthroat,Geothlypis trichas,COYE,146,38,108,83,8,False,False,Both Habitats
+Northern Mockingbird,Mimus polyglottos,NOMO,143,11,132,88,7,False,False,Both Habitats
+Northern Parula,Setophaga americana,NOPA,123,114,9,91,10,False,False,Both Habitats
+Gray Catbird,Dumetella carolinensis,GRCA,117,36,81,81,10,False,False,Both Habitats
+Pileated Woodpecker,Dryocopus pileatus,PIWO,108,96,12,97,11,False,False,Both Habitats
+Bobolink,Dolichonyx oryzivorus,BOBO,103,0,103,5,1,False,False,Grassland Only
+Tree Swallow,Tachycineta bicolor,TRES,73,0,73,32,3,False,False,Grassland Only
+House Wren,Troglodytes aedon,HOWR,67,11,56,40,7,False,False,Both Habitats
+Baltimore Oriole,Icterus galbula,BAOR,65,20,45,52,8,False,False,Both Habitats
+Hooded Warbler,Setophaga citrina,HOWA,64,64,0,45,3,False,True,Forest Only
+Eastern Kingbird,Tyrannus tyrannus,EAKI,60,2,58,39,4,False,False,Both Habitats
+Warbling Vireo,Vireo gilvus,WAVI,58,25,33,49,5,False,False,Both Habitats
+Yellow-throated Vireo,Vireo flavifrons,YTVI,58,55,3,53,6,False,True,Both Habitats
+Turkey Vulture,Cathartes aura,TUVU,56,5,51,38,4,False,False,Both Habitats
+Hairy Woodpecker,Picoides villosus,HAWO,54,41,13,52,10,False,False,Both Habitats
+Pine Warbler,Setophaga pinus,PIWA,50,42,8,40,6,False,True,Both Habitats
+Fish Crow,Corvus ossifragus,FICR,44,14,30,39,8,False,False,Both Habitats
+Louisiana Waterthrush,Parkesia motacilla,LOWA,43,43,0,40,5,False,True,Forest Only
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,NRWS,40,2,38,19,4,False,False,Both Habitats
+Canada Goose,Branta canadensis,CANG,36,10,26,19,7,False,False,Both Habitats
+Unidentified Chickadee,Poecile,UNCH,36,21,15,29,5,False,False,Both Habitats
+Northern Flicker,Colaptes auratus,NOFL,35,20,15,33,11,False,False,Both Habitats
+House Finch,Haemorhous mexicanus,HOFI,33,9,24,20,6,False,False,Both Habitats
+American Redstart,Setophaga ruticilla,AMRE,32,25,7,31,9,False,False,Both Habitats
+Eastern Phoebe,Sayornis phoebe,EAPH,31,16,15,27,7,False,False,Both Habitats
+Worm-eating Warbler,Helmitheros vermivorus,WEWA,31,31,0,29,5,True,True,Forest Only
+Red-shouldered Hawk,Buteo lineatus,RSHA,30,20,10,29,7,False,False,Both Habitats
+Black-and-white Warbler,Mniotilta varia,BAWW,29,28,1,23,3,False,False,Both Habitats
+Blackpoll Warbler,Setophaga striata,BLPW,29,16,13,27,6,False,False,Both Habitats
+Rock Dove,Columba livia,RODO,28,0,28,4,2,False,False,Grassland Only
+Chimney Swift,Chaetura pelagica,CHSW,27,13,14,25,8,False,True,Both Habitats
+Unidentified Crow,Corvus,UNCR,25,4,21,20,6,False,False,Both Habitats
+Prairie Warbler,Setophaga discolor,PRAW,25,7,18,23,3,True,True,Both Habitats
+Brown Thrasher,Toxostoma rufum,BRTH,23,7,16,19,5,False,True,Both Habitats
+Horned Lark,Eremophila alpestris,HOLA,23,1,22,14,2,False,False,Both Habitats
+Unidentified Swallow,Hirundinidae,UNSW,22,0,22,5,2,False,False,Grassland Only
+Swainson's Thrush,Catharus ustulatus,SWTH,21,20,1,19,6,False,False,Both Habitats
+Yellow Warbler,Setophaga petechia,YEWA,19,13,6,18,7,False,False,Both Habitats
+Killdeer,Charadrius vociferus,KILL,19,1,18,12,4,False,False,Both Habitats
+Orchard Oriole,Icterus spurius,OROR,18,3,15,16,5,False,False,Both Habitats
+Great Blue Heron,Ardea herodias,GBHE,17,5,12,11,3,False,False,Both Habitats
+House Sparrow,Passer domesticus,HOSP,16,7,9,7,4,False,False,Both Habitats
+Wild Turkey,Meleagris gallopavo,WITU,15,13,2,14,8,False,False,Both Habitats
+Blue Grosbeak,Guiraca caerulea,BLGR,15,0,15,13,3,False,True,Grassland Only
+Barred Owl,Strix varia,BADO,13,11,2,11,5,False,False,Both Habitats
+White-eyed Vireo,Vireo griseus,WEVI,13,12,1,11,5,False,False,Both Habitats
+Veery,Catharus fuscescens,VEER,11,9,2,8,3,False,False,Both Habitats
+Black-throated Blue Warbler,Setophaga caerulescens,BTBW,9,9,0,8,4,False,False,Forest Only
+Yellow-breasted Chat,Icteria virens,YBCH,9,4,5,9,5,False,False,Both Habitats
+Red-tailed Hawk,Buteo jamaicensis,RTHA,8,2,6,8,3,False,False,Both Habitats
+American Kestrel,Falco sparverius,AMKE,8,0,8,7,3,False,False,Grassland Only
+Double-crested Cormorant,Phalacrocorax auritus,DCCO,7,7,0,5,2,False,False,Forest Only
+Cerulean Warbler,Setophaga cerulea,CERW,7,7,0,7,3,True,False,Forest Only
+Osprey,Pandion haliaetus,OSPR,7,7,0,6,3,False,False,Forest Only
+Purple Martin,Progne subis,PUMA,6,0,6,5,2,False,False,Grassland Only
+Cape May Warbler,Setophaga tigrina,CMWA,6,5,1,5,2,False,False,Both Habitats
+Black Vulture,Coragyps atratus,BLVU,5,1,4,4,3,False,False,Both Habitats
+Bay-breasted Warbler,Setophaga castanea,BBWA,5,4,1,5,3,False,False,Both Habitats
+Bald Eagle,Haliaeetus leucocephalus,BAEA,5,0,5,5,2,False,False,Grassland Only
+Belted Kingfisher,Ceryle alcyon,BEKI,4,3,1,4,2,False,True,Both Habitats
+Mallard,Anas platyrhynchos,MALL,4,4,0,2,1,False,False,Forest Only
+Summer Tanager,Piranga rubra,SUTA,4,3,1,4,3,False,False,Both Habitats
+Wood Duck,Aix sponsa,WODU,4,3,1,3,2,False,False,Both Habitats
+Black-throated Green Warbler,Setophaga virens,BTNW,4,3,1,4,2,False,False,Both Habitats
+Magnolia Warbler,Setophaga magnolia,MAWA,3,2,1,3,3,False,False,Both Habitats
+Ruby-throated Hummingbird,Archilochus colubris,RTHU,3,1,2,3,2,False,False,Both Habitats
+Yellow-rumped Warbler,Setophaga coronata,YRWA,3,3,0,2,1,False,False,Forest Only
+Yellow-throated Warbler,Setophaga dominica,YTWA,3,3,0,3,1,False,True,Forest Only
+Northern Waterthrush,Parkesia noveboracensis,NOWA,3,2,1,3,3,False,False,Both Habitats
+Unidentified Flycatcher,Tyrannidae,UNFL,2,1,1,2,2,False,False,Both Habitats
+Vesper Sparrow,Pooecetes gramineus,VESP,2,0,2,2,1,False,False,Grassland Only
+Cooper's Hawk,Accipiter cooperii,COHA,2,0,2,2,2,False,False,Grassland Only
+Dark-eyed Junco,Junco hyemalis,DEJU,2,2,0,2,1,False,False,Forest Only
+Black-capped Chickadee,Poecile atricapillus,BCCH,2,2,0,2,1,False,False,Forest Only
+Green Heron,Butorides virescens,GRHE,2,2,0,1,1,False,False,Forest Only
+Willow Flycatcher,Empidonax traillii,WIFL,2,0,2,2,2,True,False,Grassland Only
+Kentucky Warbler,Oporornis formosus,KEWA,2,1,1,2,2,True,True,Both Habitats
+Swamp Sparrow,Melospiza georgiana,SWSP,2,1,1,2,2,False,False,Both Habitats
+Unidentified Woodpecker,Picadae,UNWO,2,2,0,2,2,False,False,Forest Only
+Chestnut-sided Warbler,Setophaga pensylvanica,CSWA,1,0,1,1,1,False,False,Grassland Only
+Chinese Pond-Heron,Ardeola bacchus,CHPH,1,0,1,1,1,False,False,Grassland Only
+Blue-winged Warbler,Vermivora cyanoptera,BWWA,1,1,0,1,1,True,False,Forest Only
+Least Flycatcher,Empidonax minimus,LEFL,1,0,1,1,1,False,False,Grassland Only
+Red-headed Woodpecker,Melanerpes erythrocephalus,RHWO,1,1,0,1,1,True,False,Forest Only
+Peregrine Falcon,Falco peregrinus,PEFA,1,1,0,1,1,False,False,Forest Only
+Nashville Warbler,Oreothlypis ruficapilla,NAWA,1,1,0,1,1,False,False,Forest Only
+Northwestern Crow,Corvus caurinus,NOCR,1,0,1,1,1,False,False,Grassland Only
+Unidentified Warbler,Parulidae,UNWA,1,0,1,1,1,False,False,Grassland Only
+Tennessee Warbler,Oreothlypis peregrina,TEWA,1,1,0,1,1,False,False,Forest Only
+Savannah Sparrow,Passerculus sandwichensis,SASP,1,0,1,1,1,False,False,Grassland Only
+White-throated Sparrow,Zonotrichia albicollis,WTSP,1,0,1,1,1,False,False,Grassland Only

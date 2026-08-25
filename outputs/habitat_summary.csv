@@ -1,0 +1,3 @@
+Habitat,Observations,Unique_Species,Unique_Plots,Unique_Admin_Units,Mean_Temp,Mean_Humidity,Species_Richness_S,Shannon_Diversity_H,Simpson_Diversity_1_minus_D,Pielou_Evenness_J
+Forest,8546,108,408,11,21.87150715319747,77.7570324261016,108.0,3.578,0.9597,0.7642
+Grassland,8531,107,201,4,23.270519297506674,69.62004459646268,107.0,3.7037,0.9662,0.7926

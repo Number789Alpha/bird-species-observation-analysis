@@ -1,0 +1,3 @@
+Variable,Min,Q1,Median,Mean,Q3,Max,IQR,Lower_Bound,Upper_Bound,Outlier_Count,Action
+Temperature,11.0,19.7000007629395,22.2999992370605,22.570398797110443,25.2000007629395,37.2999992370605,5.5,11.4500007629395,33.450000762939496,254,Retained (Valid physical weather measurements during breeding season)
+Humidity,7.30000019073486,67.5,75.8000030517578,73.69211217227192,83.0,98.8000030517578,15.5,44.25,106.25,390,Retained (Valid physical weather measurements during breeding season)
