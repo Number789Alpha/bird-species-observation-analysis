@@ -2,6 +2,17 @@
 ### An End-to-End Ecological Analytics Platform
 **Google Colab / Python (Data Cleaning & EDA) $\rightarrow$ Microsoft SQL Server (Storage & Analytical Views) $\rightarrow$ Streamlit + Plotly (Interactive Dashboard)**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bird-species-observation-analysis-5adppp8jrh6xjqws3uwfey.streamlit.app/)
+[![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 🌐 Live Interactive Dashboard
+The interactive multi-page web application is deployed and publicly accessible 24/7 at:
+
+🔗 **[https://bird-species-observation-analysis-5adppp8jrh6xjqws3uwfey.streamlit.app/](https://bird-species-observation-analysis-5adppp8jrh6xjqws3uwfey.streamlit.app/)**
+
 ---
 
 ## 📌 Project Overview
@@ -76,7 +87,7 @@ bird-species-observation-analysis/
 
 ---
 
-## 🚀 Quickstart & Installation
+## 🚀 Quickstart & Local Installation
 
 ### 1. Clone the Repository
 ```bash
@@ -89,7 +100,7 @@ cd bird-species-observation-analysis
 pip install -r requirements.txt
 ```
 
-### 3. Launch the Streamlit Dashboard
+### 3. Launch the Streamlit Dashboard Locally
 ```bash
 streamlit run app.py
 ```
@@ -130,5 +141,6 @@ The web app features **8 dedicated analytical modules**:
 
 ## 👥 Authors & Acknowledgments
 - **Developer:** Vidit ([@Number789Alpha](https://github.com/Number789Alpha))
+- **Live App:** [https://bird-species-observation-analysis-5adppp8jrh6xjqws3uwfey.streamlit.app/](https://bird-species-observation-analysis-5adppp8jrh6xjqws3uwfey.streamlit.app/)
 - **Data Source:** National Park Service (NPS) Avian Point Count Monitoring Program — National Capital Region.
 - **Frameworks:** Python, Pandas, Plotly, Streamlit, Microsoft SQL Server, Google Colab.
